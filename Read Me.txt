@@ -1,0 +1,10 @@
+Laravel Version = 5.8
+Boostrap Version = 5.5
+
+Softwares
+->Picsart
+->Adobe Photoshop
+->PhpStrorm 2019
+->Xammp
+->Chrome Mysql Server
+
